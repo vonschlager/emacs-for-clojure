@@ -12,13 +12,8 @@
 
 ;; You can uncomment this to remove the graphical toolbar at the top. After
 ;; awhile, you won't need the toolbar.
-<<<<<<< HEAD
 (when (fboundp 'tool-bar-mode)
   (tool-bar-mode -1))
-=======
-;; (when (fboundp 'tool-bar-mode)
-;;   (tool-bar-mode -1))
->>>>>>> d1f974030126209d54e34fb3ef009a6a0c07d438
 
 ;; Don't show native OS scroll bars for buffers because they're redundant
 (when (fboundp 'scroll-bar-mode)
@@ -29,21 +24,12 @@
 ;; for a great explanation of emacs color themes.
 ;; https://www.gnu.org/software/emacs/manual/html_node/emacs/Custom-Themes.html
 ;; for a more technical explanation.
-<<<<<<< HEAD
 (add-to-list 'custom-theme-load-path "~/.emacs.d/elpa/solarized-theme-20150916.504")
 (add-to-list 'load-path "~/.emacs.d/elpa/solarized-theme-20150916.504")
 (load-theme 'solarized-dark t)
 
 ;; increase font size for better readability
 (set-face-attribute 'default nil :height 120)
-=======
-(add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
-(add-to-list 'load-path "~/.emacs.d/themes")
-(load-theme 'tomorrow-night-bright t)
-
-;; increase font size for better readability
-(set-face-attribute 'default nil :height 140)
->>>>>>> d1f974030126209d54e34fb3ef009a6a0c07d438
 
 ;; Uncomment the lines below by removing semicolons and play with the
 ;; values in order to set the width (in characters wide) and height
@@ -81,9 +67,6 @@
 
 ;; no bell
 (setq ring-bell-function 'ignore)
-<<<<<<< HEAD
 
 ;; rainbow
 (add-hook 'prog-mode-hook #'rainbow-delimiters-mode)
-=======
->>>>>>> d1f974030126209d54e34fb3ef009a6a0c07d438
