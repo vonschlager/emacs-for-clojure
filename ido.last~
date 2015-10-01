@@ -1,0 +1,28 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/jacek/.emacs.d/" . "customizations/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/jacek/.emacs.d/customizations/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "ui.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/jacek/.emacs.d/customizations/" (22028 29255 884905 908000) "../" "editing.el" "misc.el" "./" "elisp-editing.el" "ui.el" "navigation.el" "setup-js.el" "setup-clojure.el" "shell-integration.el")
+
+ ("/home/jacek/.emacs.d/" (22028 31592 337416 451000) ".recentf~" "../" ".git/" "themes/" ".recentf" "init.el" "places" "./" "projectile-bookmarks.eld" "backups/" "elpa/" "customizations/" "README.md" "auto-save-list/" ".gitignore" ".smex-items")
+
+ ("/home/jacek/" (22028 31464 217428 878000) "work/" ".VirtualBox/" ".pgadmin3" ".zshrc.pre-oh-my-zsh" ".cache/" "fileDwygiR.pdf" ".emacs.d/" ".m2/" "../" ".fonts.conf" ".mysql_history" ".coffee_history" "pgadmin.log" ".dbshell" ".macromedia/" ".vboxvms/" ".asoundrc" ".xinitrc" ".swt/" "spacemacs/" ".bashrc" ".java/" ".vim/" ".Xresources_light" ".gnupg/" ".spacemacs" ".viminfo" ".bundler/" "composer/" "./" ".irssi/" "config/" ".bash_logout" ".bash_history" "movies/" "wakacje/" ".mplayer/" ".clojure_history" ".psql_history" ".Xauthority" "Desktop/" ".zcompdump-x230-5.0.5" ".oh-my-zsh/" ".jmsn/" ".mongorc.js" ".wireshark/" "stuff/" "config.tbz" ".jalopy.15/" ".gem/" ".dircolors_light" ".zshrc" ".recently-used" ".racket/" ".icons/" ".zcompdump-x230-5.0.8" ".pulse-cookie" ".xmonad/" "ex/" ".gimp-2.8/" ".xmobarrc" "My Games/" ".NERDTreeBookmarks" "pron/" ".gnome/" ".WebIde80/" ".gtkrc-2.0" ".anki/" ".ssh/" ".sqlite_history" ".composer/" ".histfile" ".gitconfig" "kwestion.doc" ".bin/" ".gconf/" ".dircolors" ".ghc/" ".adobe/" "Symfony_book_2.7.pdf" ".ctags" "Downloads/" ".gnome2/" ".lein/" "src/" "tmp/" ".local/" ".zcompdump-x230-5.1" ".elinks/" ".swp" ".zsh_history" ".mono/" ".fehbg" ".thumbnails/" ".lesshst" ".zcompdump" ".asoundrc__" ".config/" ".mozilla/" ".teamspeak2/" ".fontconfig/" ".zcompdump-x230-5.1.1" "PhpstormProjects/" ".profile" ".inputrc" ".gtkrc.bak" ".xsel.log" "index.php" ".zcompdump-x230-5.0.6" ".zsh-update" ".gstreamer-0.10/" ".asoundrc_" ".themes/" ".oracle_jre_usage/" ".dosbox/" ".pgpass" "#mredauto#2#" ".dvdcss/" ".dmenu_cache" ".wicd/" ".lamdu/" ".yi.dbg" ".mplayer2/" ".npm/" ".vimrc" "music/" ".pgadmin_histoqueries" ".ts3client/" ".pki/" ".moc/" ".toprc" ".dbus/" ".atom/" ".cabal/" "pdf/" ".zcompdump-x230-5.0.7" "VirtualBox VMs/" ".wine/" "downloads/" ".Xresources")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
