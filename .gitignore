@@ -8,3 +8,6 @@ projectile-bookmarks.eld
 projectile.cache
 auto-save-list
 backups
+elpa/archives/gnu/archive-contents
+elpa/archives/marmalade/archive-contents
+elpa/archives/melpa/archive-contents
