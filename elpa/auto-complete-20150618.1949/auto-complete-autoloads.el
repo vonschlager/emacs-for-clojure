@@ -3,8 +3,13 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
+<<<<<<< HEAD
 ;;;### (autoloads nil "auto-complete" "auto-complete.el" (22029 5265
 ;;;;;;  972962 430000))
+=======
+;;;### (autoloads nil "auto-complete" "auto-complete.el" (22029 46767
+;;;;;;  759447 838000))
+>>>>>>> baba1738b93186ea1ffedbdb40aa4149359dee9e
 ;;; Generated autoloads from auto-complete.el
 
 (autoload 'auto-complete "auto-complete" "\
@@ -41,7 +46,11 @@ See `auto-complete-mode' for more information on Auto-Complete mode.
 ;;;***
 
 ;;;### (autoloads nil "auto-complete-config" "auto-complete-config.el"
+<<<<<<< HEAD
 ;;;;;;  (22029 5267 256295 701000))
+=======
+;;;;;;  (22029 46769 16080 756000))
+>>>>>>> baba1738b93186ea1ffedbdb40aa4149359dee9e
 ;;; Generated autoloads from auto-complete-config.el
 
 (autoload 'ac-config-default "auto-complete-config" "\
@@ -51,8 +60,13 @@ See `auto-complete-mode' for more information on Auto-Complete mode.
 
 ;;;***
 
+<<<<<<< HEAD
 ;;;### (autoloads nil nil ("auto-complete-pkg.el") (22029 5267 342453
 ;;;;;;  371000))
+=======
+;;;### (autoloads nil nil ("auto-complete-pkg.el") (22029 46769 110912
+;;;;;;  436000))
+>>>>>>> baba1738b93186ea1ffedbdb40aa4149359dee9e
 
 ;;;***
 
