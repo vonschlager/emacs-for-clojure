@@ -28,8 +28,10 @@
 (add-to-list 'load-path "~/.emacs.d/elpa/solarized-theme-20150916.504")
 (load-theme 'solarized-dark t)
 
-;; increase font size for better readability
-(set-face-attribute 'default nil :height 120)
+
+;; default font
+(set-face-attribute 'default t :font "Inconsolata-12")
+(set-default-font "Inconsolata-12")
 
 ;; Uncomment the lines below by removing semicolons and play with the
 ;; values in order to set the width (in characters wide) and height
@@ -70,3 +72,6 @@
 
 ;; rainbow
 (add-hook 'prog-mode-hook #'rainbow-delimiters-mode)
+
+(require 'neotree)
+(global-set-key [f8] 'neotree-toggle)

@@ -71,8 +71,11 @@
 
 (setq electric-indent-mode nil)
 
+(setq evil-want-C-u-scroll t)
 (require 'evil)
 (evil-mode 1)
 
 (add-hook 'clojure-mode-hook '(lambda ()
                                 (local-set-key (kbd "RET") 'newline-and-indent)))
+
+(modify-syntax-entry ?_ "w")
